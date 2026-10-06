@@ -2,7 +2,7 @@
 
 Proof-of-concept for Boston Bioprocess: rule-enforcing batch/unit-operation **Schedule**, plus a single-vessel **closed-loop control** demo (readings → forecast → feed command → live UI).
 
-**Repo:** https://github.com/shubh03210/Bioprocessor  
+**Repo:** https://github.com/RAJ2897/Boiprocess-Scheduler 
 **Live app:** https://bioprocessor.onrender.com  
 **User manual (non-technical):** [`docs/USER_MANUAL.md`](docs/USER_MANUAL.md)  
 **Status:** Live on Render. Remaining: demo video, PROMPTS polish, GitHub invites.
@@ -18,7 +18,7 @@ Do these steps **in order**. You need **two terminals** for the UI (backend + fr
 ### 1. Clone
 
 ```powershell
-git clone https://github.com/shubh03210/Bioprocessor.git
+git clone https://github.com/RAJ2897/Boiprocess-Scheduler.git
 cd Bioprocessor
 ```
 
